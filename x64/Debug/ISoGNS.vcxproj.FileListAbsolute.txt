@@ -1,0 +1,3 @@
+C:\Users\Hidesna\source\repos\ISoGNS\x64\Debug\ISoGNS.exe
+C:\Users\Hidesna\Desktop\Курсовая рбота\x64\Debug\ISoGNS.exe
+C:\Users\Nikita\Desktop\Курсовая рбота\x64\Debug\ISoGNS.exe
